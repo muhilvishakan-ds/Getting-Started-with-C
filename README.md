@@ -1,0 +1,2 @@
+DATE:12/11/2024
+Hello to whoever reading this! This is my kickstart to learn C language and being consistent in learning and executing it, I've this curiosity to learn this language while my friends are learning python & java, Where C maded me to feel like **"Iron Man"** (Tony Stark From Marvel) to build functions, libs from scratch. Well i just did 2 programs in C and im talking like this, well this **"Read Me"** file will be updated daily with dates so you all could know my progress in here, so for now see you soon guyss!! 
