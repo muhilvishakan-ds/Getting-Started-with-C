@@ -4,3 +4,8 @@ Hello to whoever reading this! This is my kickstart to learn C language and bein
 DATE:13/11/2025
 Hello To All once again, so today i have uploaded around 4 programs wehre i have learnt about looping (while & for) the same program of listing out fahrenheit and celsius temparature, i have fascinated about how these looping works and especially the** FOR Loop** this guys reduced the size of a 14 line program using while to a 6 line program when i used him, i also i came to know about "**ACCESS SPECIFIERS"** such as %f and digit spaces too i.e %6d which means its provides a space of 6 digits. Also about including numbers after point by using %.2f(which inl 2 digits after point) , %.1f(which includes a digit after point). 
 Also i learned about a new concept called symbolic representation which are like variables but its syntax goes like <#define NAME VALUE(Can be numeric or char)> eg: #define AGE 19, I've used this in the temparature program. And im so happy that i myself did a reverse program on this temperature using FOR Loop this was so satisfying to me!!!! SO Thats all For today ig(Who knows my curiosity will solve 5 more problems today and will post a repo here and could update here) bye for now See you guyss Later!!!!
+
+DATE:14/11/2025
+Minasan Konnichiwa!!!(Hello everyone in JAP)
+Today i have not learned anything new i have just practised only one porgram in For loop, well i feel kinda tired i will try to grind Guyss, Stay hard Grind Hard!!! 
+
