@@ -9,3 +9,8 @@ DATE:14/11/2025
 Minasan Konnichiwa!!!(Hello everyone in JAP)
 Today i have not learned anything new i have just practised only one porgram in For loop, well i feel kinda tired i will try to grind Guyss, Stay hard Grind Hard!!! 
 
+DATE:15/11/2025
+So today was a big day i was preparing for an hackathon and i did only one coding in C, which i feel quite bad but still im not gonna give up!!!
+
+
+
