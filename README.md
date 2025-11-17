@@ -12,5 +12,9 @@ Today i have not learned anything new i have just practised only one porgram in 
 DATE:15/11/2025
 So today was a big day i was preparing for an hackathon and i did only one coding in C, which i feel quite bad but still im not gonna give up!!!
 
+DATE:16&17/11/2025
+Kindaa had other works man.....ahhhhhhhh i need work harddd!!!!!!
+i did only 1 program.....feeling bad!
+
 
 
